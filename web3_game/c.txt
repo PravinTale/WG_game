@@ -1,0 +1,4 @@
+In web3
+-npx hardhat compile
+deploy on fuji network 
+-npx hardhat run scripts/deploy.ts --network fuji
